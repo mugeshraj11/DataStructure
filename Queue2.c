@@ -104,7 +104,7 @@ int main(){
 
     }while(n==1);
     display(L);
-    printf("\nEnter 1 to insert at first");
+    printf("\nEnter 1 to insert, and 2 to Dequeue");
     scanf("%d",&s);
     
 
